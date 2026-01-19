@@ -1,4 +1,4 @@
 # Certificates
 
-SQL Certificate 
-Pic: 
+Data Analysis Certificate 
+ ![Alt text]().
