@@ -1,6 +1,6 @@
 # Certificates
 JAVA Certificate 
- ![Alt text]([https://github.com/Rishabh-0109/Certificates/blob/main/Rishabh%20Jain%20Java.pdf]).
+ ![Alt text](https://github.com/Rishabh-0109/Certificates/blob/main/Rishabh%20Jain%20Java.pdf).
 Data Analysis Certificate 
  ![Alt text](https://github.com/Rishabh-0109/Certificates/blob/main/Rishabh%20Data%20Analyst-Certificate%20(1).png).
 Data Analysis Certificate 
