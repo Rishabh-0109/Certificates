@@ -1,7 +1,7 @@
 # Certificates
 JAVA Certificate 
  ![Alt text](https://github.com/Rishabh-0109/Certificates/blob/main/Rishabh%20Jain%20Java.pdf).
-Data Analysis Certificate 
+Digital Markating Certificate 
  ![Alt text](https://github.com/Rishabh-0109/Certificates/blob/main/SocialMedia%20Marketing%20Certificate.jpg).
 Data Analysis Certificate 
  ![Alt text](https://github.com/Rishabh-0109/Certificates/blob/main/Rishabh%20Data%20Analyst-Certificate%20(1).png).
